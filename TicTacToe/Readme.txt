@@ -1,0 +1,1 @@
+The jar file to be launched is located in the dist folder
